@@ -9,7 +9,7 @@ https://nodejs.org/en/
 
 Step 2 : Open .env file with notepad and give all the necessary details.
 
-Step 3 : Load your wallet with some AVAX for paying gas fee (what ever the chain you are using).
+Step 3 : Load your wallet with some BNB for paying gas fee (what ever the chain you are using).
 
 Step 4: This Bot is mainly sniping with WBNB So you have to have WBNB for purchasing token
 
