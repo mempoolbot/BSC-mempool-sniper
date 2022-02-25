@@ -7,9 +7,9 @@ OneTime Setup to execute bot
 Step 1 : You need to install NodeJs software at first from below link (If you install NodeJs already ignore this step)
 https://nodejs.org/en/ 
 
-Step 2 : Open .env file with notepad and give all the necessary details.
+Step 2 :Download **BSC_Sniper_V1** and unzip the file and Open .(dot)env file with notepad and give all the necessary details.
 
-Step 3 : Load your wallet with some BNB for paying gas fee (what ever the chain you are using).
+Step 3 : Load your wallet with some BNB for paying gas fee.
 
 Step 4: This Bot is mainly sniping with WBNB So you have to have WBNB for purchasing token
 
