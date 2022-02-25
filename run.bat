@@ -1,0 +1,2 @@
+node sniper.js
+pause
